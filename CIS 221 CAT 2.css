@@ -1,0 +1,229 @@
+body
+{
+    background-color: #f9f7fe;
+}
+header
+{
+    padding: 0 0 10px 0;
+    border-top: 5px solid rgb(175,172,172);
+    text-align: center;
+    text-decoration: underline;
+}
+.weather-app
+{
+    background-color: rgb(175,172,172);
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 30px;
+}
+h3
+{
+    padding: 40px 0 0 0;
+    border-top: 9px solid rgb(175,172,172);
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+.weather-app-temperature-container
+{
+    display: flex;
+    padding: 40px 0 0 0;
+    border-top: 30px solid rgb(175,172,172);
+    line-height: 30px;
+    text-transform: capitalize;
+}
+.weather-data
+{
+    display: flex;
+    justify-content: space-between
+}
+.weather-app-icon
+{
+    height: 80px;
+    width: 80px;
+    line-height: 20px;
+    padding-bottom: 10px;
+    margin-top: 1px;
+}
+.weather-app-temperature-container
+{
+    font-size: 60px;
+    margin-left: 10px;
+    font-weight: bolx;
+}
+.weather-app-unit
+{
+    margin-top: 6px;
+    font-size: 28px;
+}
+.form-input
+{
+    text-decoration: solid;
+    border: none;
+    width: 70%;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px 15px;
+}
+.form-button
+{
+    border: none;
+    background-color: rgb(123,3,123);
+    color: whitesmoke;
+    padding: 10px 15px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 5px;
+    border-radius: 9px;
+}
+.weather-app-temperature
+{
+    font-size: 80px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.Humidity
+{
+    color: rgb(123,3,123);
+}
+.weather-days
+{
+    color: rgb(123,3,123);
+    font-size: 20px;
+}
+.Monday
+{
+    margin-top: 30px;
+    margin-left: 23px;
+    font-size: 15px;
+}
+.Monday-icon
+{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Monday-degree-celcius
+{
+    margin-top: 12px;
+    margin-left: -16px;
+}
+.The-hidden
+{
+    margin-top: -17px;
+    margin-left: 20px;
+    color: rgb(216, 179, 250);
+}
+.Tuesday
+{
+    margin-top: -77px;
+    margin-left: 113px;
+    font-size: 15px;
+}
+.Tuesday-icon
+{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.Tuesday-degree-celcius
+{
+    margin-top: 14px;
+    margin-left: -20px;
+}
+.Wednesday
+{
+    margin-top: -79px;
+    margin-left: 196px;
+    font-size: 15px;
+}
+.Wednesday-icon
+{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.Wednesday-degree-celcius
+{
+    margin-top: 14px;
+    margin-left: -20px;
+}
+.Thursday
+{
+    margin-top: -79px;
+    margin-left: 276px;
+    font-size: 15px;
+}
+.Thursday-icon
+{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.Thursday-degree-celcius
+{
+    margin-top: 14px;
+    margin-left: -20px;
+}
+.Friday
+{
+    margin-top: -79px;
+    margin-left: 361px;
+    font-size: 15px;
+}
+.Friday-icon
+{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.Friday-degree-celcius
+{
+    margin-top: 14px;
+    margin-left: -20px;
+}
+.Saturday
+{
+    margin-top: -79px;
+    margin-left: 441px;
+    font-size: 15px;
+}
+.Saturday-icon
+{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.Saturday-degree-celcius
+{
+    margin-top: 14px;
+    margin-left: -20px;
+}
+.Sunday
+{
+    margin-top: -79px;
+    margin-left: 521px;
+    font-size: 15px;
+}
+.Sunday-icon
+{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.Sunday-degree-celcius
+{
+    margin-top: 14px;
+    margin-left: -20px;
+}
+footer
+{
+    padding: 0 0 10px 0;
+    border-top: 250px ;
+    text-align: center;
+    color: rgba(0,0,0,0,0.5);
+    font-size: 13px;
+    margin-top: 20px;
+}
+a
+{
+    color: rgb(123,3,123);
+}
+h2
+{
+    color: rgb(68, 10, 10);
+}
